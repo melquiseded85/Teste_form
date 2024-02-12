@@ -38,15 +38,16 @@ namespace ProjetoTeste
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(134, 75);
+            this.label1.Location = new System.Drawing.Point(126, 87);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(493, 58);
+            this.label1.Size = new System.Drawing.Size(500, 58);
             this.label1.TabIndex = 0;
-            this.label1.Text = "testando este projeto";
+            this.label1.Text = "este titulo foi alterado";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(106, 193);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(154, 200);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(236, 140);
             this.button1.TabIndex = 1;
@@ -55,7 +56,8 @@ namespace ProjetoTeste
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(358, 193);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(406, 200);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(236, 140);
             this.button2.TabIndex = 2;
