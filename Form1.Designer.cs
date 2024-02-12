@@ -48,7 +48,7 @@ namespace ProjetoTeste
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(154, 200);
+            this.button1.Location = new System.Drawing.Point(145, 182);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(236, 140);
             this.button1.TabIndex = 1;
@@ -58,7 +58,7 @@ namespace ProjetoTeste
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(406, 200);
+            this.button2.Location = new System.Drawing.Point(397, 182);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(236, 140);
             this.button2.TabIndex = 2;
@@ -68,7 +68,7 @@ namespace ProjetoTeste
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(154, 346);
+            this.button3.Location = new System.Drawing.Point(145, 328);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(236, 140);
             this.button3.TabIndex = 3;
