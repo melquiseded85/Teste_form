@@ -41,9 +41,9 @@ namespace ProjetoTeste
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(200, 188);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(500, 58);
+            this.label1.Size = new System.Drawing.Size(238, 73);
             this.label1.TabIndex = 0;
-            this.label1.Text = "este titulo foi alterado";
+            this.label1.Text = "asdddd";
             // 
             // button1
             // 
@@ -52,7 +52,7 @@ namespace ProjetoTeste
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(236, 140);
             this.button1.TabIndex = 1;
-            this.button1.Text = "testamdp";
+            this.button1.Text = "1";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
@@ -62,7 +62,7 @@ namespace ProjetoTeste
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(236, 140);
             this.button2.TabIndex = 2;
-            this.button2.Text = "testamdp";
+            this.button2.Text = "2";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // button3
@@ -72,10 +72,10 @@ namespace ProjetoTeste
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(236, 140);
             this.button3.TabIndex = 3;
-            this.button3.Text = "tratamento";
+            this.button3.Text = "3";
             this.button3.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // frm1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -84,7 +84,7 @@ namespace ProjetoTeste
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "frm1";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
