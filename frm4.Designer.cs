@@ -1,7 +1,7 @@
 ﻿
 namespace ProjetoTeste
 {
-    partial class Form1
+    partial class frm4
     {
         /// <summary>
         /// Variável de designer necessária.
