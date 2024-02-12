@@ -1,0 +1,10 @@
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.AssemblyReference.cache
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.Form1.resources
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.Properties.Resources.resources
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.GenerateResource.cache
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\ManuelMelquisededSer\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
