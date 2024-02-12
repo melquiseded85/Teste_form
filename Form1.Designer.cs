@@ -33,14 +33,13 @@ namespace ProjetoTeste
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(126, 87);
+            this.label1.Location = new System.Drawing.Point(200, 188);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(500, 58);
             this.label1.TabIndex = 0;
@@ -49,7 +48,7 @@ namespace ProjetoTeste
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(136, 263);
+            this.button1.Location = new System.Drawing.Point(53, 296);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(236, 140);
             this.button1.TabIndex = 1;
@@ -59,7 +58,7 @@ namespace ProjetoTeste
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(388, 263);
+            this.button2.Location = new System.Drawing.Point(295, 296);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(236, 140);
             this.button2.TabIndex = 2;
@@ -69,29 +68,18 @@ namespace ProjetoTeste
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(136, 409);
+            this.button3.Location = new System.Drawing.Point(537, 296);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(236, 140);
             this.button3.TabIndex = 3;
             this.button3.Text = "tratamento";
             this.button3.UseVisualStyleBackColor = true;
             // 
-            // checkBox1
-            // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(194, 189);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(98, 21);
-            this.checkBox1.TabIndex = 4;
-            this.checkBox1.Text = "checkBox1";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(873, 632);
-            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -109,7 +97,6 @@ namespace ProjetoTeste
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
 
